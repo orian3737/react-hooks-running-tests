@@ -6,9 +6,7 @@ function Header(props) {
           
            hello from the Header!
         </h1>
-        <h1>
-        modification
-        </h1>
+
       )
 }
 
